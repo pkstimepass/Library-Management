@@ -45,7 +45,7 @@
   },
   {
    "fieldname": "status",
-   "fieldtype": "Data",
+   "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Status",
    "options": "Issued\nAvailable",
@@ -78,7 +78,7 @@
    "label": "Description"
   }
  ],
- "modified": "2020-06-29 15:02:45.987474",
+ "modified": "2020-06-29 15:54:35.275054",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Article",
