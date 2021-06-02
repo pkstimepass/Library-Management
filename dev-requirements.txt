@@ -44,7 +44,7 @@ jmespath==0.10.0
 ldap3==2.7
 -e git+https://github.com/PrettySolution/library_management@ea1d532f34e933ba0c66b29a658f961c457f37bb#egg=library_management
 lxml==4.5.1
-markdown2==2.3.9
+markdown2==2.4.0
 MarkupSafe==1.1.1
 maxminddb==1.5.4
 maxminddb-geolite2==2018.703
